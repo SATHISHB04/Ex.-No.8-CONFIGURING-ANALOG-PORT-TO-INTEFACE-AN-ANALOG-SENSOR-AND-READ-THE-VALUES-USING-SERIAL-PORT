@@ -366,8 +366,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
 ## Output  :
-
-![output](https://github.com/user-attachments/assets/3887b754-4eee-48fe-a135-08f3f8a14636)
+<img width="1894" height="1123" alt="image" src="https://github.com/user-attachments/assets/88940a1f-8ba4-4695-bbff-c8c29004117e" />
 
 ![hardware](https://github.com/user-attachments/assets/cd26d090-b01d-47b8-95d3-c0defd196262)
 
