@@ -366,9 +366,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
 ## Output  :
- ![WhatsApp Image 2025-11-11 at 09 18 13_0c294aa7](https://github.com/user-attachments/assets/7235b659-1546-4971-977c-7cb8689f637c)
-
 ![hardware](https://github.com/user-attachments/assets/cd26d090-b01d-47b8-95d3-c0defd196262)
+
+
+<img width="1920" height="1200" alt="Screenshot 2025-11-05 114657" src="https://github.com/user-attachments/assets/d8d7db8d-af66-494f-8bd1-8689bcc38fde" />
+
+<img width="1920" height="1200" alt="Screenshot 2025-11-05 114707" src="https://github.com/user-attachments/assets/dd052b8f-de25-425e-98d8-0c85053c8819" />
 
 
 
